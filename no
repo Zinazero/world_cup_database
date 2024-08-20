@@ -1,0 +1,28 @@
+ team_id |     name      
+---------+---------------
+      55 | France
+      56 | Croatia
+      57 | Belgium
+      58 | England
+      59 | Russia
+      60 | Sweden
+      61 | Brazil
+      62 | Uruguay
+      63 | Colombia
+      64 | Switzerland
+      65 | Japan
+      66 | Mexico
+      67 | Denmark
+      68 | Spain
+      69 | Portugal
+      70 | Argentina
+      71 | Germany
+      72 | Netherlands
+      73 | Costa Rica
+      74 | Chile
+      75 | Nigeria
+      76 | Algeria
+      77 | Greece
+      78 | United States
+(24 rows)
+
